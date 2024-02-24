@@ -38,7 +38,7 @@ Disallow: /apple-app-site-association
 Disallow: /.well-known/shopify/monorail
 Disallow: /cdn/wpm/*.js
 Disallow: /services/login_with_shop
-Sitemap: https://impact-theme-sound.myshopify.com/sitemap.xml
+Sitemap: sitemap.xml
 
 # Google adsbot ignores robots.txt unless specifically named!
 User-agent: adsbot-google
@@ -95,7 +95,7 @@ Disallow: /apple-app-site-association
 Disallow: /.well-known/shopify/monorail
 Disallow: /cdn/wpm/*.js
 Disallow: /services/login_with_shop
-Sitemap: https://impact-theme-sound.myshopify.com/sitemap.xml
+Sitemap: sitemap.xml
 
 User-agent: AhrefsSiteAudit
 Crawl-delay: 10
@@ -136,7 +136,7 @@ Disallow: /apple-app-site-association
 Disallow: /.well-known/shopify/monorail
 Disallow: /cdn/wpm/*.js
 Disallow: /services/login_with_shop
-Sitemap: https://impact-theme-sound.myshopify.com/sitemap.xml
+Sitemap: sitemap.xml
 
 User-agent: MJ12bot
 Crawl-Delay: 10

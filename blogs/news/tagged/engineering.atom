@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
-  <id>https://impact-theme-sound.myshopify.com/blogs/news.atom</id>
-  <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/blogs/news"/>
-  <link rel="self" type="application/atom+xml" href="https://impact-theme-sound.myshopify.com/blogs/news/tagged/engineering.atom"/>
+  <id>blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="blogs/news/tagged/engineering.atom"/>
   <title>Impact Theme Sound - Blog</title>
   <updated>2022-08-05T15:16:14+02:00</updated>
   <author>
     <name>Impact Theme Sound</name>
   </author>
   <entry>
-    <id>https://impact-theme-sound.myshopify.com/blogs/news/know-your-sound-tool-mw08-sport-active-noise-cancelling-true-wireless-earphones</id>
+    <id>blogs/news/know-your-sound-tool-mw08-sport-active-noise-cancelling-true-wireless-earphones</id>
     <published>2022-08-05T15:16:14+02:00</published>
     <updated>2022-09-13T09:21:15+02:00</updated>
-    <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/blogs/news/know-your-sound-tool-mw08-sport-active-noise-cancelling-true-wireless-earphones"/>
+    <link rel="alternate" type="text/html" href="blogs/news/know-your-sound-tool-mw08-sport-active-noise-cancelling-true-wireless-earphones"/>
     <title>Know Your Sound Tool: MW08 Sport Earphones</title>
     <author>
       <name>Stanislas Pichutka</name>
     </author>
     <summary type="html">
-      <![CDATA[<p class="p1"><span class="s1">In our ongoing series featuring the design and technical aspects of our wireless earphones, headphones and</span><span class="s2"> </span><span class="s3">bluetooth speaker</span><span class="s1">, we speak with members of our product team to learn more about what goes into the engineering of our premium audio products.</span></p><p><a class="read-more" href="https://impact-theme-sound.myshopify.com/blogs/news/know-your-sound-tool-mw08-sport-active-noise-cancelling-true-wireless-earphones">More</a></p>]]>
+      <![CDATA[<p class="p1"><span class="s1">In our ongoing series featuring the design and technical aspects of our wireless earphones, headphones and</span><span class="s2"> </span><span class="s3">bluetooth speaker</span><span class="s1">, we speak with members of our product team to learn more about what goes into the engineering of our premium audio products.</span></p><p><a class="read-more" href="blogs/news/know-your-sound-tool-mw08-sport-active-noise-cancelling-true-wireless-earphones">More</a></p>]]>
     </summary>
     <content type="html">
       <![CDATA[<h5>In our ongoing series featuring the design and technical aspects of our wireless earphones, headphones and bluetooth speaker, we speak with members of our product team to learn more about what goes into the engineering of our premium audio products.</h5><br>
@@ -38,16 +38,16 @@
     </content>
   </entry>
   <entry>
-    <id>https://impact-theme-sound.myshopify.com/blogs/news/know-your-sound-tool-the-tweeter</id>
+    <id>blogs/news/know-your-sound-tool-the-tweeter</id>
     <published>2022-08-03T16:02:58+02:00</published>
     <updated>2022-08-12T08:45:03+02:00</updated>
-    <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/blogs/news/know-your-sound-tool-the-tweeter"/>
+    <link rel="alternate" type="text/html" href="blogs/news/know-your-sound-tool-the-tweeter"/>
     <title>Know Your Sound Tool: The Tweeter</title>
     <author>
       <name>Stanislas Pichutka</name>
     </author>
     <summary type="html">
-      <![CDATA[<meta charset="utf-8"><span>In our new series featuring the design and technical aspects of our headphones, earphones, and </span>bluetooth speaker,<span> we speak with members of our product team to learn more about what goes into the engineering of our premium audio products.</span><p><a class="read-more" href="https://impact-theme-sound.myshopify.com/blogs/news/know-your-sound-tool-the-tweeter">More</a></p>]]>
+      <![CDATA[<meta charset="utf-8"><span>In our new series featuring the design and technical aspects of our headphones, earphones, and </span>bluetooth speaker,<span> we speak with members of our product team to learn more about what goes into the engineering of our premium audio products.</span><p><a class="read-more" href="blogs/news/know-your-sound-tool-the-tweeter">More</a></p>]]>
     </summary>
     <content type="html">
       <![CDATA[<h5>In our new series featuring the design and technical aspects of our headphones, earphones, and bluetooth speaker, we speak with members of our product team to learn more about what goes into the engineering of our premium audio products.</h5><br>
@@ -61,7 +61,7 @@
 <p><strong>But it’s still delicate, right?</strong></p>
 <p>“<em>Don’t touch it,” warns Nick. “It’s strong enough for what it has to do, but it’s not meant to be poked</em>.”</p>
 <p><img src="https://cdn.shopify.com/s/files/1/0646/2118/3226/files/x1_speaker.jpg?v=1659623061" alt="MA770 Speaker Grey"></p>
-<p>Our MA770 Wireless Speaker, complete with titanium tweeter, is available <a title="MA770 Speaker" href="https://impact-theme-sound.myshopify.com/pages/speaker"><strong>here</strong></a></p>]]>
+<p>Our MA770 Wireless Speaker, complete with titanium tweeter, is available <a title="MA770 Speaker" href="pages/speaker"><strong>here</strong></a></p>]]>
     </content>
   </entry>
 </feed>
