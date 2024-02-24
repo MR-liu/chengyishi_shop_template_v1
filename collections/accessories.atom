@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://impact-theme-sound.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://impact-theme-sound.myshopify.com/collections/accessories.atom"/>
+  <title>Impact Theme Sound</title>
+  <updated>2022-07-01T17:41:50+02:00</updated>
+  <author>
+    <name>Impact Theme Sound</name>
+  </author>
+  <entry>
+    <id>https://impact-theme-sound.myshopify.com/products/7664879927546</id>
+    <published>2022-07-01T17:41:50+02:00</published>
+    <updated>2022-07-01T17:41:50+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/products/mc100-wireless-charge-pad-silver-aluminum-grey-coated-canvas"/>
+    <title>MC100 Wireless Charge Pad (Silver Aluminum / Grey Coated Canvas)</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Master &amp; Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0646/2118/3226/products/MC100_S3_hero_800x800_41365f50-ba3f-45d9-8f86-f8a8ecdad9c7.png?v=1656681950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Master &amp; Dynamic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For MW08 Sport Earphones</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664879927546</id>
+      <title>Silver Aluminum / Grey Coated Canvas</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://impact-theme-sound.myshopify.com/products/7664879894778</id>
+    <published>2022-07-01T17:41:50+02:00</published>
+    <updated>2022-07-01T17:41:50+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/products/mc100-wireless-charge-pad-gunmetal-aluminum-black-coated-canvas"/>
+    <title>MC100 Wireless Charge Pad (Gunmetal Aluminum / Black Coated Canvas)</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Master &amp; Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0646/2118/3226/products/MC100_G1_hero_800x800_629d612d-38d6-471b-b1db-eede9eaedff7.png?v=1656681848"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Master &amp; Dynamic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For MW08 Sport Earphones</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664879894778</id>
+      <title>Gunmetal Aluminum / Black Coated Canvas</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://impact-theme-sound.myshopify.com/products/7664880025850</id>
+    <published>2022-07-01T17:41:49+02:00</published>
+    <updated>2022-07-01T17:41:49+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/products/headphone-stand-black"/>
+    <title>Headphone Stand (Black)</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Master &amp; Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0646/2118/3226/products/MP1000B_1600x1600_800x800_61ba6857-7a2a-4fe1-875f-d48c2c14e09a.png?v=1656681432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Master &amp; Dynamic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Display In Style</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664880025850</id>
+      <title>Black</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://impact-theme-sound.myshopify.com/products/7664879960314</id>
+    <published>2022-07-01T17:41:49+02:00</published>
+    <updated>2022-07-01T17:41:49+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/products/mw01-wireless"/>
+    <title>MW01 Wireless</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Master &amp; Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0646/2118/3226/products/MW01_Closed_2020_1_800x800_b31abdab-f6ea-4b3f-b7b0-e0711cedc722.png?v=1656687250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Master &amp; Dynamic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bluetooth Adapter/Transmitter</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664879960314</id>
+      <title>Silver/Black</title>
+      <s:price currency="USD">69.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://impact-theme-sound.myshopify.com/products/7664880124154</id>
+    <published>2022-07-01T17:41:48+02:00</published>
+    <updated>2022-07-01T17:41:48+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/products/mw07-plus-charging-case-canvas-pouch-graphite-grey"/>
+    <title>MW07 Plus Charging Case &amp; Canvas Pouch (Graphite Grey)</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Master &amp; Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0646/2118/3226/products/MW07_RP_Graphite-Case-Pouch_800x800_800x800_9a11f593-a452-430d-98d8-e781ce302359.png?v=1656687567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Master &amp; Dynamic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            125.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For MW07 PLUS Earphones</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case</s:tag>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664880124154</id>
+      <title>Graphite Grey</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://impact-theme-sound.myshopify.com/products/7664880091386</id>
+    <published>2022-07-01T17:41:48+02:00</published>
+    <updated>2022-07-01T17:41:48+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/products/mw08-sport-kevlar-r-charging-case"/>
+    <title>MW08 Sport Kevlar® Charging Case</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Master &amp; Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0646/2118/3226/products/MW08SPORT_ChargingCase_2022_1_800x800_800x8001_d58bc7c0-8dc0-4ded-852e-74fa0f36e4d4.png?v=1656687809"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Master &amp; Dynamic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            149.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For MW08 Sport Earphones</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case</s:tag>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664880091386</id>
+      <title>Black</title>
+      <s:price currency="USD">149.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://impact-theme-sound.myshopify.com/products/7664880058618</id>
+    <published>2022-07-01T17:41:48+02:00</published>
+    <updated>2022-07-01T17:41:48+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/products/headphone-stand-silver"/>
+    <title>Headphone Stand (Silver)</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Master &amp; Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0646/2118/3226/products/MP1000S_1600x1600_800x800_7f95b736-a91e-4c55-9494-0ad52a845090.png?v=1656681525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Master &amp; Dynamic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Display In Style</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664880058618</id>
+      <title>Silver</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://impact-theme-sound.myshopify.com/products/7664880222458</id>
+    <published>2022-07-01T17:41:47+02:00</published>
+    <updated>2022-07-01T17:41:47+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/products/mw07-plus-charging-case-canvas-pouch-for-leica"/>
+    <title>MW07 Plus Charging Case &amp; Canvas Pouch For Leica</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Master &amp; Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0646/2118/3226/products/MW07PLUS_Leica_Case-Pouch_800x800_800x800_659ee335-3952-4cc6-8e41-90952a209d96.png?v=1656687714"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Master &amp; Dynamic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            125.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For MW07 PLUS Earphones</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collaboration</s:tag>
+    <s:tag>Leica</s:tag>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664880222458</id>
+      <title>Matte Black</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://impact-theme-sound.myshopify.com/products/7664880156922</id>
+    <published>2022-07-01T17:41:47+02:00</published>
+    <updated>2022-07-01T17:41:47+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/products/mw07-plus-charging-case-canvas-pouch-stainless-steel"/>
+    <title>MW07 Plus Charging Case &amp; Canvas Pouch (Stainless Steel)</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Master &amp; Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0646/2118/3226/products/MW07_RP_Case-Pouch_800x800_1_800x800_1892067b-921b-41e5-bf4e-c7be70993756.png?v=1656687518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Master &amp; Dynamic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            125.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For MW07 PLUS Earphones</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Case</s:tag>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664880156922</id>
+      <title>Stainless Steel</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://impact-theme-sound.myshopify.com/products/7664880419066</id>
+    <published>2022-07-01T17:41:45+02:00</published>
+    <updated>2022-07-01T17:41:45+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/products/mw65-ear-pads-black"/>
+    <title>MW65 Ear Pads</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Master &amp; Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0646/2118/3226/products/RP65BLK_Black_800x800_f550808e-a3e5-4f8e-9bd9-76687d78bbd3.png?v=1656689235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Master &amp; Dynamic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Personalize Your Headphones</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664880419066</id>
+      <title>Black</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664880419066</id>
+      <title>Brown</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664880419066</id>
+      <title>Grey</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664880419066</id>
+      <title>Navy</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://impact-theme-sound.myshopify.com/products/7664880943354</id>
+    <published>2022-07-01T17:41:42+02:00</published>
+    <updated>2022-07-01T17:41:42+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/products/mw50-over-ear-ear-pads-black"/>
+    <title>MW50+ Over-Ear Ear Pads</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Master &amp; Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0646/2118/3226/products/MW50_BLK_EarPad_800x800_1020x_e03fbfc1-f73e-46cf-8b2e-09f20d67f2cf.jpg?v=1656688640"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Master &amp; Dynamic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Personalize Your Headphones</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664880943354</id>
+      <title>Black</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664880943354</id>
+      <title>Brown</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://impact-theme-sound.myshopify.com/products/7664881008890</id>
+    <published>2022-07-01T17:41:41+02:00</published>
+    <updated>2022-07-01T17:41:41+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/products/mw50-on-ear-ear-pads-black"/>
+    <title>MW50+ On-Ear Ear Pads</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Master &amp; Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0646/2118/3226/products/MW50-2_BLK_EarPad_800x800_1020x_e17095c3-ee2e-43ca-8c28-21aa812abf1c.jpg?v=1656688308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Master &amp; Dynamic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Personalize Your Headphones</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664881008890</id>
+      <title>Black</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664881008890</id>
+      <title>Brown</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://impact-theme-sound.myshopify.com/products/7664881205498</id>
+    <published>2022-07-01T17:41:40+02:00</published>
+    <updated>2022-07-01T17:41:40+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/products/mh40-wireless-ear-pads-black"/>
+    <title>MH40 Wireless Ear Pads</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Master &amp; Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0646/2118/3226/products/60-BLK_EarPads_800x800_1020x_df54d0e8-29b2-4357-847e-312d2bde620a.jpg?v=1656686976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Master &amp; Dynamic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Personalize Your Headphones</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664881205498</id>
+      <title>Black</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664881205498</id>
+      <title>Brown</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664881205498</id>
+      <title>Grey</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664881205498</id>
+      <title>Navy</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://impact-theme-sound.myshopify.com/products/7664881402106</id>
+    <published>2022-07-01T17:41:39+02:00</published>
+    <updated>2022-07-01T17:41:39+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/products/mh40-ear-pads-black"/>
+    <title>MH40 Ear Pads</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Master &amp; Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0646/2118/3226/products/60-BLK_EarPads_800x800_1020x_25782989-4ef5-44bf-adc6-d48dc8fa10ba.jpg?v=1656683778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Master &amp; Dynamic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">Personalize your headphones</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664881402106</id>
+      <title>Black</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664881402106</id>
+      <title>Royal</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664881402106</id>
+      <title>Brown</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664881402106</id>
+      <title>Alcantara</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664881402106</id>
+      <title>Burgundy</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664881402106</id>
+      <title>Graphite</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664881402106</id>
+      <title>Grey</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664881402106</id>
+      <title>Navy</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664881402106</id>
+      <title>Olive</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://impact-theme-sound.myshopify.com/products/7664882123002</id>
+    <published>2022-07-01T17:41:36+02:00</published>
+    <updated>2022-07-01T17:41:36+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/products/3-5mm-to-3-5mm-audio-cable-silver"/>
+    <title>3.5mm To 3.5mm Audio Cable (Silver)</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Master &amp; Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0646/2118/3226/products/CRD2SLV_1600x1600_800x800_e4a72ad6-2d45-4c10-925b-3a8e0ff02934.png?v=1656680759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Master &amp; Dynamic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Auxiliary Cable Replacement</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664882123002</id>
+      <title>Silver</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://impact-theme-sound.myshopify.com/products/7664882090234</id>
+    <published>2022-07-01T17:41:36+02:00</published>
+    <updated>2022-07-01T17:41:36+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/products/usb-c-to-3-5mm-audio-cable-black"/>
+    <title>USB-C To 3.5mm Audio Cable (Black)</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Master &amp; Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0646/2118/3226/products/USBC-CRDBLK_1600x1600_800x800_0e1dfc41-d777-4033-9667-cd6bead90115.png?v=1656689696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Master &amp; Dynamic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For Android™ Devices</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664882090234</id>
+      <title>Black</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://impact-theme-sound.myshopify.com/products/7664882024698</id>
+    <published>2022-07-01T17:41:36+02:00</published>
+    <updated>2022-07-01T17:41:36+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/products/usb-c-to-3-5mm-audio-cable-silver"/>
+    <title>USB-C To 3.5mm Audio Cable (Silver)</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Master &amp; Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0646/2118/3226/products/USBC-CRDSLV_1600x1600_800x800_02b5fe7c-af87-4d1c-80dd-f9a7ad554ce5.png?v=1656689701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Master &amp; Dynamic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For Android™ Devices</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664882024698</id>
+      <title>Silver</title>
+      <s:price currency="USD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://impact-theme-sound.myshopify.com/products/7664882188538</id>
+    <published>2022-07-01T17:41:35+02:00</published>
+    <updated>2022-07-01T17:41:35+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/products/3-5mm-to-3-5mm-audio-cable-black"/>
+    <title>3.5mm To 3.5mm Audio Cable (Black)</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Master &amp; Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0646/2118/3226/products/CRD2BLK_1600x1600_800x800_885c4152-89c6-4c64-9710-42b8663bf446.png?v=1656680424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Master &amp; Dynamic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Auxiliary Cable Replacement</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664882188538</id>
+      <title>Black</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://impact-theme-sound.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://impact-theme-sound.myshopify.com/collections/collaborations.atom"/>
+  <title>Impact Theme Sound</title>
+  <updated>2022-09-12T08:48:25+02:00</updated>
+  <author>
+    <name>Impact Theme Sound</name>
+  </author>
+  <entry>
+    <id>https://impact-theme-sound.myshopify.com/products/7664878518522</id>
+    <published>2022-09-12T08:48:25+02:00</published>
+    <updated>2022-09-12T08:48:25+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/products/mh40-wireless-leica-0-95"/>
+    <title>MH40 Wireless Leica 0.95 (Silver)</title>
+    <s:type>Headphones</s:type>
+    <s:vendor>Master &amp; Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0646/2118/3226/products/MH40-W-095_Angle_800x800_800x800_0f2d0050-2812-4651-ac88-e26691e5087d.png?v=1656927011"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Master &amp; Dynamic<br>
+        <strong>Type: </strong>Headphones<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Over-Ear Headphones</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__label:Limited Edition</s:tag>
+    <s:tag>Collaboration</s:tag>
+    <s:tag>Leica</s:tag>
+    <s:tag>Wireless</s:tag>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664878518522</id>
+      <title>Silver Metal / Black Coated Canvas</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://impact-theme-sound.myshopify.com/products/7664877895930</id>
+    <published>2022-07-01T17:42:03+02:00</published>
+    <updated>2022-07-01T17:42:03+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/products/mw65-automobili-lamborghini-black-black-mantis-green"/>
+    <title>MW65 Automobili Lamborghini (Black / Black / Mantis Green)</title>
+    <s:type>Headphones</s:type>
+    <s:vendor>Master &amp; Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0646/2118/3226/products/MW65ALSC_Angle_800x800_800x800_80899717-3197-495a-bde6-7ae51b15cf34.png?v=1656930445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Master &amp; Dynamic<br>
+        <strong>Type: </strong>Headphones<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Active Noise-Cancelling Wireless Headphones</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collaboration</s:tag>
+    <s:tag>Lamborghini</s:tag>
+    <s:tag>Noise-Cancelling</s:tag>
+    <s:tag>Wireless</s:tag>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664877895930</id>
+      <title>Black / Black / Mantis Green</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://impact-theme-sound.myshopify.com/products/7664877863162</id>
+    <published>2022-07-01T17:42:03+02:00</published>
+    <updated>2022-07-01T17:42:03+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/products/mw65-automobili-lamborghini-black-black-yellow"/>
+    <title>MW65 Automobili Lamborghini (Black / Black / Yellow)</title>
+    <s:type>Headphones</s:type>
+    <s:vendor>Master &amp; Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0646/2118/3226/products/MW65-LAM2_Angle_800x800_800x800_1d94532c-be2f-456d-baa6-b788667050a9.png?v=1656930566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Master &amp; Dynamic<br>
+        <strong>Type: </strong>Headphones<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Active Noise-Cancelling Wireless Headphones</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collaboration</s:tag>
+    <s:tag>Lamborghini</s:tag>
+    <s:tag>Noise-Cancelling</s:tag>
+    <s:tag>Wireless</s:tag>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664877863162</id>
+      <title>Black / Black / Yellow</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://impact-theme-sound.myshopify.com/products/7664877797626</id>
+    <published>2022-07-01T17:42:03+02:00</published>
+    <updated>2022-07-01T17:42:03+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/products/mw65-automobili-lamborghini-black-black-grey"/>
+    <title>MW65 Automobili Lamborghini (Black / Black / Grey)</title>
+    <s:type>Headphones</s:type>
+    <s:vendor>Master &amp; Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0646/2118/3226/products/MW65-LAM3_Angle_800x800_800x800_70f7f7d2-a8ad-47b4-89c4-be247db59ab0.png?v=1656930349"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Master &amp; Dynamic<br>
+        <strong>Type: </strong>Headphones<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Active Noise-Cancelling Wireless Headphones</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collaboration</s:tag>
+    <s:tag>Lamborghini</s:tag>
+    <s:tag>Noise-Cancelling</s:tag>
+    <s:tag>Wireless</s:tag>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664877797626</id>
+      <title>Black / Black / Grey</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://impact-theme-sound.myshopify.com/products/7664877764858</id>
+    <published>2022-07-01T17:42:03+02:00</published>
+    <updated>2022-07-01T17:42:03+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/products/mw65-automobili-lamborghini-silver-grey-yellow"/>
+    <title>MW65 Automobili Lamborghini (Silver / Grey / Yellow)</title>
+    <s:type>Headphones</s:type>
+    <s:vendor>Master &amp; Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0646/2118/3226/products/MW65-LAM1_Angle_800x800_800x800_c549cb1d-709c-4bb6-a061-a9a74a4354ba.png?v=1656930652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Master &amp; Dynamic<br>
+        <strong>Type: </strong>Headphones<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Active Noise-Cancelling Wireless Headphones</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collaboration</s:tag>
+    <s:tag>Lamborghini</s:tag>
+    <s:tag>Noise-Cancelling</s:tag>
+    <s:tag>Wireless</s:tag>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664877764858</id>
+      <title>Silver / Grey / Yellow</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://impact-theme-sound.myshopify.com/products/7664878059770</id>
+    <published>2022-07-01T17:42:02+02:00</published>
+    <updated>2022-07-01T17:42:02+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/products/mw65-leica-0-95-black-metal-black-leather"/>
+    <title>MW65 Leica 0.95 (Black Metal / Black Leather)</title>
+    <s:type>Headphones</s:type>
+    <s:vendor>Master &amp; Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0646/2118/3226/products/MW65B1-095_Angle_800x800_800x800_f028b448-1483-41b7-8b77-cef0fc45c77c.png?v=1656931204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Master &amp; Dynamic<br>
+        <strong>Type: </strong>Headphones<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Master &amp; Dynamic has partnered with Leica Camera AG to create a capsule collection of sound tools inspired by the design of the world's fastest aspherical lens - the legendary Leica Noctilux-M 50 mm f/0.95 ASPH.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collaboration</s:tag>
+    <s:tag>Leica</s:tag>
+    <s:tag>Noise-Cancelling</s:tag>
+    <s:tag>Wireless</s:tag>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664878059770</id>
+      <title>Black Metal / Black Leather</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://impact-theme-sound.myshopify.com/products/7664878485754</id>
+    <published>2022-07-01T17:41:59+02:00</published>
+    <updated>2022-07-01T17:41:59+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/products/mh40-wireless-paris-saint-germain"/>
+    <title>MH40 Wireless Paris Saint-Germain</title>
+    <s:type>Headphones</s:type>
+    <s:vendor>Master &amp; Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0646/2118/3226/products/MH40WPSGPT2_Angle_800x800_800x800_7f3b8e92-b5b7-48b3-bf5f-453d0af30c21.png?v=1656927155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Master &amp; Dynamic<br>
+        <strong>Type: </strong>Headphones<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Over-Ear Headphones</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collaboration</s:tag>
+    <s:tag>PSG</s:tag>
+    <s:tag>Wireless</s:tag>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664878485754</id>
+      <title>Silver Metal / PSG Blue Coated Canvas</title>
+      <s:price currency="USD">299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://impact-theme-sound.myshopify.com/products/7664879599866</id>
+    <published>2022-07-01T17:41:52+02:00</published>
+    <updated>2022-07-01T17:41:52+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/products/mw07-plus-atomobili-lamborghini-polished-white-matte-silver-case"/>
+    <title>MW07 Plus Automobili Lamborghini (Polished White / Matte Silver Case)</title>
+    <s:type>Earphones</s:type>
+    <s:vendor>Master &amp; Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0646/2118/3226/products/MW07-LAM1_Angle_Right_800x800_800x800_6f220cb7-1c3f-4cc7-b76c-f010881b7d75.png?v=1656937520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Master &amp; Dynamic<br>
+        <strong>Type: </strong>Earphones<br>
+        <strong>Price: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>True Wireless Earphones</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collaboration</s:tag>
+    <s:tag>Lamborghini</s:tag>
+    <s:tag>Waterproof</s:tag>
+    <s:tag>Wireless</s:tag>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664879599866</id>
+      <title>Polished White / Matte Silver Case</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://impact-theme-sound.myshopify.com/products/7664879534330</id>
+    <published>2022-07-01T17:41:52+02:00</published>
+    <updated>2022-07-01T17:41:52+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/products/mw07-plus-atomobili-lamborghini-mantis-green-matte-black-case"/>
+    <title>MW07 Plus Automobili Lamborghini (Mantis Green / Matte Black Case)</title>
+    <s:type>Earphones</s:type>
+    <s:vendor>Master &amp; Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0646/2118/3226/products/MW07ALSC_Angle-Right_800x800_1_800x800_4b315451-c205-4fd8-9195-0d379fd5eb9d.png?v=1656937166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Master &amp; Dynamic<br>
+        <strong>Type: </strong>Earphones<br>
+        <strong>Price: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>True Wireless Earphones</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collaboration</s:tag>
+    <s:tag>Lamborghini</s:tag>
+    <s:tag>Waterproof</s:tag>
+    <s:tag>Wireless</s:tag>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664879534330</id>
+      <title>Mantis Green / Matte Black Case</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://impact-theme-sound.myshopify.com/products/7664879468794</id>
+    <published>2022-07-01T17:41:52+02:00</published>
+    <updated>2022-07-01T17:41:52+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/products/mw07-plus-paris-saint-germain"/>
+    <title>MW07 Plus Paris Saint-Germain</title>
+    <s:type>Earphones</s:type>
+    <s:vendor>Master &amp; Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0646/2118/3226/products/MW07-PSG_Angle_Right_800x800_800x800_c7346cdb-704a-405f-bba8-bd7df519e2d9.png?v=1656937853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Master &amp; Dynamic<br>
+        <strong>Type: </strong>Earphones<br>
+        <strong>Price: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>True Wireless Earphones</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collaboration</s:tag>
+    <s:tag>PSG</s:tag>
+    <s:tag>Waterproof</s:tag>
+    <s:tag>Wireless</s:tag>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664879468794</id>
+      <title>Black Quartz / Purple Galaxy Case</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://impact-theme-sound.myshopify.com/products/7664879796474</id>
+    <published>2022-07-01T17:41:51+02:00</published>
+    <updated>2022-07-01T17:41:51+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/products/mw07-plus-leica"/>
+    <title>MW07 Plus Leica</title>
+    <s:type>Earphones</s:type>
+    <s:vendor>Master &amp; Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0646/2118/3226/products/MW07PLUS-Leica_Angle_Right_800x800_800x800_20592be8-1a64-4bcc-96cb-3a60efdaa690.png?v=1660655961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Master &amp; Dynamic<br>
+        <strong>Type: </strong>Earphones<br>
+        <strong>Price: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>True Wireless Earphones</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collaboration</s:tag>
+    <s:tag>Leica</s:tag>
+    <s:tag>Waterproof</s:tag>
+    <s:tag>Wireless</s:tag>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664879796474</id>
+      <title>Black Acetate / Stainless Steel</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://impact-theme-sound.myshopify.com/products/7664879730938</id>
+    <published>2022-07-01T17:41:51+02:00</published>
+    <updated>2022-07-01T17:41:51+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/products/mw07-plus-atomobili-lamborghini-polished-black-matte-black-case"/>
+    <title>MW07 Plus Automobili Lamborghini (Polished Black / Matte Black Case)</title>
+    <s:type>Earphones</s:type>
+    <s:vendor>Master &amp; Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0646/2118/3226/products/MW07-LAM2_Angle_Right_800x800_800x800_6e37241e-e700-41ef-94b3-968b72b3b501.png?v=1656937440"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Master &amp; Dynamic<br>
+        <strong>Type: </strong>Earphones<br>
+        <strong>Price: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>True Wireless Earphones</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collaboration</s:tag>
+    <s:tag>Lamborghini</s:tag>
+    <s:tag>Waterproof</s:tag>
+    <s:tag>Wireless</s:tag>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664879730938</id>
+      <title>Polished Black / Matte Black Case</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://impact-theme-sound.myshopify.com/products/7664879632634</id>
+    <published>2022-07-01T17:41:51+02:00</published>
+    <updated>2022-07-01T17:41:51+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/products/mw07-plus-atomobili-lamborghini-matte-black-matte-black-case"/>
+    <title>MW07 Plus Automobili Lamborghini (Matte Black/ Matte Black Case)</title>
+    <s:type>Earphones</s:type>
+    <s:vendor>Master &amp; Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0646/2118/3226/products/MW07-LAM3_Angle_Right_800x800_800x800_f6f2215f-7b86-4cf6-a3f3-b79c6d7aee91.png?v=1656937350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Master &amp; Dynamic<br>
+        <strong>Type: </strong>Earphones<br>
+        <strong>Price: </strong>
+            249.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>True Wireless Earphones</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collaboration</s:tag>
+    <s:tag>Lamborghini</s:tag>
+    <s:tag>Waterproof</s:tag>
+    <s:tag>Wireless</s:tag>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664879632634</id>
+      <title>Matte Black/ Matte Black Case</title>
+      <s:price currency="USD">249.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://impact-theme-sound.myshopify.com/products/7664880222458</id>
+    <published>2022-07-01T17:41:47+02:00</published>
+    <updated>2022-07-01T17:41:47+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/products/mw07-plus-charging-case-canvas-pouch-for-leica"/>
+    <title>MW07 Plus Charging Case &amp; Canvas Pouch For Leica</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Master &amp; Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0646/2118/3226/products/MW07PLUS_Leica_Case-Pouch_800x800_800x800_659ee335-3952-4cc6-8e41-90952a209d96.png?v=1656687714"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Master &amp; Dynamic<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            125.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>For MW07 PLUS Earphones</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collaboration</s:tag>
+    <s:tag>Leica</s:tag>
+    <s:variant>
+      <id>https://impact-theme-sound.myshopify.com/products/7664880222458</id>
+      <title>Matte Black</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

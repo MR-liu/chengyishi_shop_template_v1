@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://impact-theme-sound.myshopify.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://impact-theme-sound.myshopify.com/blogs/news/tagged/engineering.atom"/>
+  <title>Impact Theme Sound - Blog</title>
+  <updated>2022-08-05T15:16:14+02:00</updated>
+  <author>
+    <name>Impact Theme Sound</name>
+  </author>
+  <entry>
+    <id>https://impact-theme-sound.myshopify.com/blogs/news/know-your-sound-tool-mw08-sport-active-noise-cancelling-true-wireless-earphones</id>
+    <published>2022-08-05T15:16:14+02:00</published>
+    <updated>2022-09-13T09:21:15+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/blogs/news/know-your-sound-tool-mw08-sport-active-noise-cancelling-true-wireless-earphones"/>
+    <title>Know Your Sound Tool: MW08 Sport Earphones</title>
+    <author>
+      <name>Stanislas Pichutka</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<p class="p1"><span class="s1">In our ongoing series featuring the design and technical aspects of our wireless earphones, headphones and</span><span class="s2"> </span><span class="s3">bluetooth speaker</span><span class="s1">, we speak with members of our product team to learn more about what goes into the engineering of our premium audio products.</span></p><p><a class="read-more" href="https://impact-theme-sound.myshopify.com/blogs/news/know-your-sound-tool-mw08-sport-active-noise-cancelling-true-wireless-earphones">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<h5>In our ongoing series featuring the design and technical aspects of our wireless earphones, headphones and bluetooth speaker, we speak with members of our product team to learn more about what goes into the engineering of our premium audio products.</h5><br>
+<p>In this story we discuss the unique features of the MW08 Sport Active Noise-Cancelling True Wireless Earphones, including the enhanced fit, the sapphire glass from which the bluetooth earbuds are crafted and the ultra-durable Kevlar® case, which now features wireless charging.</p>
+<p><strong>What are the key differences between MW08 and MW08 Sport?</strong></p>
+<p>The MW08 Sport has the same superb sound profile as the MW08 to enhance your mood and elevate your focus while active. The product is designed with sapphire glass for extreme scratch resistance and durability, and introduces four new colors. The MW08 Sport also includes new foam ear tips, adding the option for a more secure fit. Finally, the MW08 Sport replaces the MW08’s stainless steel case with an extremely durable, lightweight case crafted using Kevlar® fiber, and introduces wireless inductive charging.</p>
+<p><strong>MW08 Sport is delivered with 5 sizes of silicone ear tips and 2 sizes of foam ear tips that conform to your ear shape. Can you explain when to use silicone vs foam ear tips and the benefits for each?</strong></p>
+<p>Foam ear tips offer a more secure fit and superior sound isolation, so they are a great option to ensure your earphones stay put while working out. An enhanced seal with your ear canal can result in improved acoustic performance as well. Silicone ear tips are easy to clean and durable, and 5 sizes allow you to get the best seal possible. These are great if you’d like tips that are quick to insert into the ear and simply wipe clean when needed.</p>
+<p><img src="https://cdn.shopify.com/s/files/1/0646/2118/3226/files/x2_mw08sport.png?v=1659706406" alt="MW08 Sport"></p>
+<p> <strong>The MW08 Sport charging case is made from Kevlar. Can you share more about the durability of this material and why it was used for MW08 Sport?</strong></p>
+<p>Kevlar® fiber is an incredibly strong yet lightweight material. Kevlar® fiber is nearly five times the strength of steel of equal weight, which makes it a great option as a protective material. The MW08 Sport is designed to be taken on the go in any environment, and the MW08 Sport’s lightweight case is easy to carry and will be able to handle whatever you throw at it. Finally, using Kevlar® as a case material instead of stainless steel allows for wireless inductive charging capability, so it’s easier to charge than ever.</p>
+<p><strong>What kind of water resistance rating does MW08 Sport have?</strong></p>
+<p>The MW08 Sport earphones are rated IPX5 for water resistance, which means they are protected against sweat or splashing water from any direction. With an IPX5 rating, the MW08 Sport can endure any workout short of swimming, even in the rain. The charging case is rated IPX4 for water resistance, and can withstand light splashes of water, protecting your earphones during transit.</p>
+<p><strong>How has MW08 Sport been designed to ensure premium performance and enhanced fit during any activity?</strong></p>
+<p>The MW08 and MW08 Sport are the culmination of years of ergonomic studies on a variety of ear shapes and sizes. Master &amp; Dynamic uses modern technology including 3D scanning and rapid prototyping to optimize the fit for the widest possible range of ear shapes. With a variety of ear tip types and sizes, everyone can find the best fit possible. Finally, premium durable materials and quality construction ensure that the earphones can stand up to any activity or environment while continuing to look and feel great.</p>
+<p><img src="https://cdn.shopify.com/s/files/1/0646/2118/3226/files/x1_mw08sport.jpg?v=1659706693" alt="MW08 Sport"></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://impact-theme-sound.myshopify.com/blogs/news/know-your-sound-tool-the-tweeter</id>
+    <published>2022-08-03T16:02:58+02:00</published>
+    <updated>2022-08-12T08:45:03+02:00</updated>
+    <link rel="alternate" type="text/html" href="https://impact-theme-sound.myshopify.com/blogs/news/know-your-sound-tool-the-tweeter"/>
+    <title>Know Your Sound Tool: The Tweeter</title>
+    <author>
+      <name>Stanislas Pichutka</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<meta charset="utf-8"><span>In our new series featuring the design and technical aspects of our headphones, earphones, and </span>bluetooth speaker,<span> we speak with members of our product team to learn more about what goes into the engineering of our premium audio products.</span><p><a class="read-more" href="https://impact-theme-sound.myshopify.com/blogs/news/know-your-sound-tool-the-tweeter">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<h5>In our new series featuring the design and technical aspects of our headphones, earphones, and bluetooth speaker, we speak with members of our product team to learn more about what goes into the engineering of our premium audio products.</h5><br>
+<p>Today we’re talking about our latest product: the MA770 Wireless Speaker. More specifically, we wanted to know about one of the most important but also most delicate parts of the speaker: the tweeter.</p>
+<p><img src="https://cdn.shopify.com/s/files/1/0646/2118/3226/files/x3_speaker.png?v=1659622550" alt="MA770 Speaker"></p>
+<p>Today we’re talking about our latest product: the MA770 Wireless Speaker. More specifically, we wanted to know about one of the most important but also most delicate parts of the speaker: the tweeter.</p>
+<p><strong>So what’s a tweeter?</strong></p>
+<p>“<em>A tweeter is the part of the speaker that produces high frequencies—above 3.5 kilohertz,” says Nick Slaney, our senior mechanical engineer. “It’s made out of titanium.</em>”</p>
+<p><strong>Why titanium?</strong></p>
+<p>"<em>Because it has to move really fast. Titanium allows us to make a dome that’s really light and thin, which is good for reproducing high frequencies. Titanium has a really high strength to weight ratio, so you can make something really thin and light but also strong. Plastic or a cheaper metal would warp and cause distortion at those frequencies.</em>"</p>
+<p><strong>But it’s still delicate, right?</strong></p>
+<p>“<em>Don’t touch it,” warns Nick. “It’s strong enough for what it has to do, but it’s not meant to be poked</em>.”</p>
+<p><img src="https://cdn.shopify.com/s/files/1/0646/2118/3226/files/x1_speaker.jpg?v=1659623061" alt="MA770 Speaker Grey"></p>
+<p>Our MA770 Wireless Speaker, complete with titanium tweeter, is available <a title="MA770 Speaker" href="https://impact-theme-sound.myshopify.com/pages/speaker"><strong>here</strong></a></p>]]>
+    </content>
+  </entry>
+</feed>
